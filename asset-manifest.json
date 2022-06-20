@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-1st-Assessment/static/css/main.2f9f27ab.css",
+    "main.js": "/React-1st-Assessment/static/js/main.c900620c.js",
+    "index.html": "/React-1st-Assessment/index.html",
+    "main.2f9f27ab.css.map": "/React-1st-Assessment/static/css/main.2f9f27ab.css.map",
+    "main.c900620c.js.map": "/React-1st-Assessment/static/js/main.c900620c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f9f27ab.css",
+    "static/js/main.c900620c.js"
+  ]
+}
